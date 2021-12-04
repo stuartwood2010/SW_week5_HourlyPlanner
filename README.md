@@ -14,5 +14,5 @@ I created an hourly planner for the weekday, a user is able to input items and s
 https://stuartwood2010.github.io/SW_week5_HourlyPlanner/
 
 
-![image](https://user-images.githubusercontent.com/92122028/144717738-6aab1337-be68-4746-83c6-12012d1f9e22.png)
+![image](https://user-images.githubusercontent.com/92122028/144717789-60b4a4a3-80b2-46ab-9d50-4f88363bcfa7.png)
 ![image](https://user-images.githubusercontent.com/92122028/144717752-d02c965e-70b8-443b-8775-990d2d56ed30.png)
